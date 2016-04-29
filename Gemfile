@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'slack-incoming-webhooks'
+gem 'slack-notifier'

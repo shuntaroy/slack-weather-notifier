@@ -1,12 +1,14 @@
 # slack-weather-notifier
-Weather notifier on Yokohama city to Slack.
 
-![example](example.png)
+Notify weather on Tokyo to Slack.
+
+<!-- ![example](example.png) -->
 
 ## Usage
-```
+
+```shell
 git clone git@github.com:kohei-kimura/slack-weather-notifier.git
 cd slack-weather-notifier
-export WEBHOOK_URL="your team webhook url"
+export SLACK_WEBHOOK_PR="your team webhook url"
 ruby slack-weather-notifier.rb
 ```

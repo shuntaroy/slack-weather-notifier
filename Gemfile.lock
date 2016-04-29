@@ -1,10 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    slack-incoming-webhooks (0.2.0)
+    slack-notifier (1.5.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  slack-incoming-webhooks
+  slack-notifier
+
+BUNDLED WITH
+   1.10.6
